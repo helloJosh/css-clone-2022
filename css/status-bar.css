@@ -3,6 +3,7 @@
   justify-content: space-between;
   margin-right: 5%;
   margin-left: 5%;
+  padding-top: 5px;
 }
 
 .status-bar:first-child span {
